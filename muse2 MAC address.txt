@@ -1,0 +1,4 @@
+00:55:DA:B5:F8:02
+muselsl stream --address 00:55:DA:B5:F8:02
+python main.py
+.T = reflection over y=-x
